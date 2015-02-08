@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>CB4FA0C5-6AB1-4981-8CD4-A41C9335B32E</string>
+	<key>IDESourceControlProjectName</key>
+	<string>postCard</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>981F4408D4A78C57B0AAEC8D2B84C5EE6A169CFD</key>
+		<string>https://github.com/Fenkins/postCard.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>postCard/postCard.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>981F4408D4A78C57B0AAEC8D2B84C5EE6A169CFD</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/Fenkins/postCard.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>981F4408D4A78C57B0AAEC8D2B84C5EE6A169CFD</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>981F4408D4A78C57B0AAEC8D2B84C5EE6A169CFD</string>
+			<key>IDESourceControlWCCName</key>
+			<string>postCard</string>
+		</dict>
+	</array>
+</dict>
+</plist>
